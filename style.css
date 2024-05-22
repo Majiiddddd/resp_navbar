@@ -129,12 +129,18 @@ section#hero{
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #fff;
+    color: '#fff';
 }
 
 #hero h1{
     font-size: 3rem;
+    color: #fff;
 
+}
+#hero p{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px;
+    border-radius: 8px;
 }
 
 
